@@ -1,0 +1,20 @@
+body {
+    background-color: aqua;
+    color:blueviolet;
+}
+
+h1{
+    color:blue;
+}
+
+p{
+    color:darkmagenta;
+}
+
+h2{
+    color:chartreuse;
+}
+
+.listas{
+    color:mediumvioletred
+}
