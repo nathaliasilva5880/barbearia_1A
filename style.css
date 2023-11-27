@@ -1,20 +1,30 @@
+header {
+    background-color:blue;
+    color:red;
+}
+
 body {
     background-color: aqua;
     color:blueviolet;
 }
 
-h1{
+h1 {
     color:blue;
 }
 
-p{
+p {
     color:darkmagenta;
 }
 
-h2{
+h2 {
     color:chartreuse;
 }
 
-.listas{
-    color:mediumvioletred
+.listas {
+    color:mediumvioletred;
+}
+
+footer {
+    background-color:cyan;
+    color:dodgerblue;
 }
